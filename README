@@ -1,0 +1,7 @@
+Compile this program with:
+
+gcc -o smallsh smallsh.c
+
+Run it with:
+
+smallsh
